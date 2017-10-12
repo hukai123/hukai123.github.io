@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>hukai的博客</title>
   
-  <subtitle>hukai的博客</subtitle>
+  <subtitle>心若向阳，</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -35,32 +35,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>first</title>
-    <link href="http://yoursite.com/2017/10/11/first/"/>
-    <id>http://yoursite.com/2017/10/11/first/</id>
-    <published>2017-10-11T08:01:58.000Z</published>
-    <updated>2017-10-12T06:46:16.974Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>欢迎来到我的个人博客</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;pre&gt;&lt;code&gt;欢迎来到我的个人博客
-&lt;/code&gt;&lt;/pre&gt;
-      
-    
-    </summary>
-    
-      <category term="Exercise" scheme="http://yoursite.com/categories/Exercise/"/>
-    
-    
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
     
   </entry>
   
